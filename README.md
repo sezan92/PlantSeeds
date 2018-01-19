@@ -6,7 +6,7 @@ Here, ```PlantSeeds.ipynb``` is the explanation of codes with the codes and resu
 
 The example predictions,
 
-[!Pred1](https://raw.githubusercontent.com/sezan92/PlantSeeds/master/pred1.png)
-[!Pred2](https://raw.githubusercontent.com/sezan92/PlantSeeds/master/pred2.png)
-[!Pred3](https://raw.githubusercontent.com/sezan92/PlantSeeds/master/pred3.png)
-[!Pred4](https://raw.githubusercontent.com/sezan92/PlantSeeds/master/pred4.png)
+![Pred1](https://raw.githubusercontent.com/sezan92/PlantSeeds/master/pred1.png)
+![Pred2](https://raw.githubusercontent.com/sezan92/PlantSeeds/master/pred2.png)
+![Pred3](https://raw.githubusercontent.com/sezan92/PlantSeeds/master/pred3.png)
+![Pred4](https://raw.githubusercontent.com/sezan92/PlantSeeds/master/pred4.png)
